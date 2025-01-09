@@ -6,5 +6,6 @@ int main()
 	{
 		cout<<"nhap vao phan tu thu "<<i;
 		cout<<i;
+		cin>>i;
 	}
 }
